@@ -1,0 +1,49 @@
+﻿生成启动时间为 2020/4/5 16:06:06。
+     1>项目“C:\Users\MaChuangxin\Desktop\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include" /ZI /nologo /W3 /WX- /Od /Oy- /D NDEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _WINSOCK_DEPRECATED_NO_WARNINGS /D EXAMPLE_MACRO_NAME /D NO_STRICT /D WIN32_LEAN_AND_MEAN /D NOMINMAX /D WIN32 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt curaEngine_legacy_CUDA.cpp
+         curaEngine_legacy_CUDA.cpp
+     1>c:\users\machuangxin\desktop\curaengine_legacy_cuda\curaengine_legacy_cuda\utils\intpoint.h(71): warning C4244: “return”: 从“double”转换到“int32_t”，可能丢失数据
+     1>c:\users\machuangxin\desktop\curaengine_legacy_cuda\curaengine_legacy_cuda\utils\intpoint.h(125): warning C4244: “return”: 从“double”转换到“int64_t”，可能丢失数据
+     1>c:\users\machuangxin\desktop\curaengine_legacy_cuda\curaengine_legacy_cuda\utils\intpoint.h(140): warning C4244: “参数”: 从“int64_t”转换到“const int32_t”，可能丢失数据
+     1>c:\users\machuangxin\desktop\curaengine_legacy_cuda\curaengine_legacy_cuda\utils\intpoint.h(156): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\machuangxin\desktop\curaengine_legacy_cuda\curaengine_legacy_cuda\utils\intpoint.h(183): warning C4244: “=”: 从“const ClipperLib::cInt”转换到“double”，可能丢失数据
+     1>c:\users\machuangxin\desktop\curaengine_legacy_cuda\curaengine_legacy_cuda\utils\intpoint.h(184): warning C4244: “=”: 从“const ClipperLib::cInt”转换到“double”，可能丢失数据
+     1>c:\users\machuangxin\desktop\curaengine_legacy_cuda\curaengine_legacy_cuda\utils\intpoint.h(194): warning C4244: “参数”: 从“const double”转换到“ClipperLib::cInt”，可能丢失数据
+     1>c:\users\machuangxin\desktop\curaengine_legacy_cuda\curaengine_legacy_cuda\utils\intpoint.h(199): warning C4244: “参数”: 从“const double”转换到“ClipperLib::cInt”，可能丢失数据
+     1>c:\users\machuangxin\desktop\curaengine_legacy_cuda\curaengine_legacy_cuda\utils\polygon.h(102): warning C4244: “初始化”: 从“ClipperLib::cInt”转换到“double”，可能丢失数据
+     1>c:\users\machuangxin\desktop\curaengine_legacy_cuda\curaengine_legacy_cuda\utils\polygon.h(118): warning C4244: “参数”: 从“double”转换到“ClipperLib::cInt”，可能丢失数据
+     1>c:\users\machuangxin\desktop\curaengine_legacy_cuda\curaengine_legacy_cuda\utils\floatpoint.h(77): warning C4244: “参数”: 从“int64_t”转换到“const int32_t”，可能丢失数据
+     1>c:\users\machuangxin\desktop\curaengine_legacy_cuda\curaengine_legacy_cuda\slicer.h(123): warning C4244: “参数”: 从“int64_t”转换到“const int32_t”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\MaChuangxin\Desktop\curaEngine_legacy_CUDA\Debug\curaEngine_legacy_CUDA.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\lib\Win32" cudart.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\MaChuangxin\Desktop\curaEngine_legacy_CUDA\Debug\curaEngine_legacy_CUDA.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\MaChuangxin\Desktop\curaEngine_legacy_CUDA\Debug\curaEngine_legacy_CUDA.lib" /MACHINE:X86 Debug\bridge.obj
+         Debug\comb.obj
+         Debug\curaEngine_legacy_CUDA.obj
+         Debug\fffProcessor.obj
+         Debug\gcodeExport.obj
+         Debug\infill.obj
+         Debug\inset.obj
+         Debug\layerPart.obj
+         Debug\clipper.obj
+         Debug\modelFile.obj
+         Debug\multiVolumes.obj
+         Debug\optimizedModel.obj
+         Debug\pathOrderOptimizer.obj
+         Debug\polygonOptimizer.obj
+         Debug\raft.obj
+         Debug\settings.obj
+         Debug\skin.obj
+         Debug\skirt.obj
+         Debug\slicer.obj
+         Debug\stdafx.obj
+         Debug\support.obj
+         Debug\timeEstimate.obj
+         Debug\gettime.obj
+         Debug\logoutput.obj
+         Debug\socket.obj
+         curaEngine_legacy_CUDA.vcxproj -> C:\Users\MaChuangxin\Desktop\curaEngine_legacy_CUDA\Debug\curaEngine_legacy_CUDA.exe
+     1>已完成生成项目“C:\Users\MaChuangxin\Desktop\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.26

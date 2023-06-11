@@ -1,0 +1,79 @@
+﻿生成启动时间为 2020/4/17 21:04:46。
+开始生成时的环境:
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\MaChuangxin\AppData\Roaming
+CLASSPATH = ;C:\Program Files\Java\jdk-13.0.1\bin;C:\Program Files\Java\jdk-13.0.1\jre\bin;
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = DESKTOP-TGGADA5
+ComSpec = C:\Windows\system32\cmd.exe
+CUDA_PATH = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0
+CUDA_PATH_V8_0 = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0
+DriverData = C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING = Default
+HOMEDRIVE = C:
+HOMEPATH = \Users\MaChuangxin
+JAVA_HOME = C:\Program Files\Java\jdk-13.0.1
+LOCALAPPDATA = C:\Users\MaChuangxin\AppData\Local
+LOGONSERVER = \\DESKTOP-TGGADA5
+MSBuildLoadMicrosoftTargetsReadOnly = true
+NUMBER_OF_PROCESSORS = 8
+NVCUDASAMPLES8_0_ROOT = C:\ProgramData\NVIDIA Corporation\CUDA Samples\v8.0
+NVCUDASAMPLES_ROOT = C:\ProgramData\NVIDIA Corporation\CUDA Samples\v8.0
+NVTOOLSEXT_PATH = C:\Program Files\NVIDIA Corporation\NvToolsExt\
+OneDrive = C:\Users\MaChuangxin\OneDrive
+OneDriveConsumer = C:\Users\MaChuangxin\OneDrive
+OS = Windows_NT
+Path = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\libnvvp;;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Java\jdk-13.0.1\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\MaChuangxin\AppData\Local\Microsoft\WindowsApps;;D:\Software\Microsoft VS Code\bin
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PkgDefApplicationConfigFile = C:\Users\MaChuangxin\AppData\Local\Microsoft\VisualStudio\15.0_83745559\devenv.exe.config
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 142 Stepping 11, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 8e0b
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files (x86)
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC = C:\Users\Public
+SESSIONNAME = Console
+SystemDrive = C:
+SystemRoot = C:\Windows
+TEMP = C:\Users\MACHUA~1\AppData\Local\Temp
+TMP = C:\Users\MACHUA~1\AppData\Local\Temp
+USERDOMAIN = DESKTOP-TGGADA5
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-TGGADA5
+USERNAME = MaChuangxin
+USERPROFILE = C:\Users\MaChuangxin
+VisualStudioDir = C:\Users\MaChuangxin\Documents\Visual Studio 2017
+VisualStudioEdition = Microsoft Visual Studio Community 2017
+VisualStudioVersion = 15.0
+VS120COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\
+VSAPPIDDIR = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\
+VSAPPIDNAME = devenv.exe
+VSLANG = 2052
+VSSKUEDITION = Community
+windir = C:\Windows
+
+21:04:46.001     1>项目“C:\Users\MaChuangxin\Desktop\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA.vcxproj”在节点 2 上(Build 个目标)。
+21:04:46.001     1>正在使用工具版本“15.0”进行生成。
+21:04:46.002     1>C:\Users\MaChuangxin\Desktop\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA.vcxproj(35,5): error MSB4019: 未找到导入的项目“C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\BuildCustomizations\CUDA 8.0.props”。请确认 <Import> 声明中的路径正确，且磁盘上存在该文件。
+21:04:46.002     1>已完成生成项目“C:\Users\MaChuangxin\Desktop\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA.vcxproj”(Build 个目标)的操作 - 失败。
+
+项目性能摘要:
+        1 毫秒 C:\Users\MaChuangxin\Desktop\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA.vcxproj   1 次调用
+                  1 毫秒 Build                                      1 次调用
+
+生成失败。
+
+                   “C:\Users\MaChuangxin\Desktop\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA.vcxproj”(Build 目标) (1) ->
+                     C:\Users\MaChuangxin\Desktop\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA\curaEngine_legacy_CUDA.vcxproj(35,5): error MSB4019: 未找到导入的项目“C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\BuildCustomizations\CUDA 8.0.props”。请确认 <Import> 声明中的路径正确，且磁盘上存在该文件。
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.01
