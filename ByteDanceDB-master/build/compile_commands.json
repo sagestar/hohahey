@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/acs/ByteYoungDB/build/src/main",
+  "command": "g++   -I/home/acs/ByteYoungDB/sql-parser/include  -g -Wall -Werror -std=c++11 -O0   -std=gnu++11 -o CMakeFiles/bydb.dir/main.cpp.o -c /home/acs/ByteYoungDB/src/main/main.cpp",
+  "file": "/home/acs/ByteYoungDB/src/main/main.cpp"
+},
+{
+  "directory": "/home/acs/ByteYoungDB/build/src/main",
+  "command": "g++   -I/home/acs/ByteYoungDB/sql-parser/include  -g -Wall -Werror -std=c++11 -O0   -std=gnu++11 -o CMakeFiles/bydb.dir/executor.cpp.o -c /home/acs/ByteYoungDB/src/main/executor.cpp",
+  "file": "/home/acs/ByteYoungDB/src/main/executor.cpp"
+},
+{
+  "directory": "/home/acs/ByteYoungDB/build/src/main",
+  "command": "g++   -I/home/acs/ByteYoungDB/sql-parser/include  -g -Wall -Werror -std=c++11 -O0   -std=gnu++11 -o CMakeFiles/bydb.dir/metadata.cpp.o -c /home/acs/ByteYoungDB/src/main/metadata.cpp",
+  "file": "/home/acs/ByteYoungDB/src/main/metadata.cpp"
+},
+{
+  "directory": "/home/acs/ByteYoungDB/build/src/main",
+  "command": "g++   -I/home/acs/ByteYoungDB/sql-parser/include  -g -Wall -Werror -std=c++11 -O0   -std=gnu++11 -o CMakeFiles/bydb.dir/optimizer.cpp.o -c /home/acs/ByteYoungDB/src/main/optimizer.cpp",
+  "file": "/home/acs/ByteYoungDB/src/main/optimizer.cpp"
+},
+{
+  "directory": "/home/acs/ByteYoungDB/build/src/main",
+  "command": "g++   -I/home/acs/ByteYoungDB/sql-parser/include  -g -Wall -Werror -std=c++11 -O0   -std=gnu++11 -o CMakeFiles/bydb.dir/parser.cpp.o -c /home/acs/ByteYoungDB/src/main/parser.cpp",
+  "file": "/home/acs/ByteYoungDB/src/main/parser.cpp"
+},
+{
+  "directory": "/home/acs/ByteYoungDB/build/src/main",
+  "command": "g++   -I/home/acs/ByteYoungDB/sql-parser/include  -g -Wall -Werror -std=c++11 -O0   -std=gnu++11 -o CMakeFiles/bydb.dir/storage.cpp.o -c /home/acs/ByteYoungDB/src/main/storage.cpp",
+  "file": "/home/acs/ByteYoungDB/src/main/storage.cpp"
+},
+{
+  "directory": "/home/acs/ByteYoungDB/build/src/main",
+  "command": "g++   -I/home/acs/ByteYoungDB/sql-parser/include  -g -Wall -Werror -std=c++11 -O0   -std=gnu++11 -o CMakeFiles/bydb.dir/trx.cpp.o -c /home/acs/ByteYoungDB/src/main/trx.cpp",
+  "file": "/home/acs/ByteYoungDB/src/main/trx.cpp"
+},
+{
+  "directory": "/home/acs/ByteYoungDB/build/src/main",
+  "command": "g++   -I/home/acs/ByteYoungDB/sql-parser/include  -g -Wall -Werror -std=c++11 -O0   -std=gnu++11 -o CMakeFiles/bydb.dir/util.cpp.o -c /home/acs/ByteYoungDB/src/main/util.cpp",
+  "file": "/home/acs/ByteYoungDB/src/main/util.cpp"
+},
+{
+  "directory": "/home/acs/ByteYoungDB/build/src/sql-parser-test",
+  "command": "g++   -I/home/acs/ByteYoungDB/sql-parser/include  -g -Wall -Werror -std=c++11 -O0   -std=gnu++11 -o CMakeFiles/sql-parser-test.dir/test.cpp.o -c /home/acs/ByteYoungDB/src/sql-parser-test/test.cpp",
+  "file": "/home/acs/ByteYoungDB/src/sql-parser-test/test.cpp"
+}
+]

@@ -1,0 +1,1 @@
+g++  -g -Wall -Werror -std=c++11 -O0   CMakeFiles/sql-parser-test.dir/test.cpp.o  -o ../../bin/sql-parser-test   -L/home/acs/ByteYoungDB/sql-parser/lib  -Wl,-rpath,/home/acs/ByteYoungDB/sql-parser/lib -lsqlparser 
